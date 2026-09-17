@@ -29,9 +29,7 @@ The event demonstrates a complete journey from traditional programming rules to 
 ```text
 pie-ai-kyiv/
 ├── README.md
-├── LICENSE
-└── From-Data-to-Prediction/
-    └── Pie_AI_Kyiv_From_Data_to_Prediction.ipynb
+└── Pie_AI_Kyiv_From_Data_to_Prediction.ipynb
 ```
 
 ## Notebook
