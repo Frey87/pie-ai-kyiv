@@ -42,6 +42,12 @@ Open the event notebook:
 
 The notebook is designed for **Google Colab**. It combines explanatory Markdown cells, visual material, executable Python code, model training, evaluation, and a BigQuery ML demonstration.
 
+## Full event recording
+
+Watch the complete Pie & AI Kyiv: From Data to Prediction event on YouTube:
+
+Direct link: https://youtu.be/WzfxXNc43hk
+
 ## Technologies
 
 - Python
